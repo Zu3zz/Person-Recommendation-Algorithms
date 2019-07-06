@@ -1,8 +1,9 @@
 # 个性化推荐算法笔记
 
 ## Chap0 CF
+### itemCf与userCf
 
-### 详见文件夹itemcf&usercf
+#### 详见文件夹CF
 
 - itemcf与usercf的优缺点
   - 推荐实时性 item快 点击了就可以推荐
