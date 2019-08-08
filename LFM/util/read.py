@@ -25,4 +25,4 @@ def get_item_info(input_file):
             continue
 
 if __name__ == "__main__":
-    print 123
+    print(123)
