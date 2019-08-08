@@ -73,4 +73,4 @@ if __name__ == "__main__":
     # print user_click
     # print user_click_time
     item_info = get_item_info("../data/movies.txt")
-    print(item_info["11"])
+    print(item_info["5"])

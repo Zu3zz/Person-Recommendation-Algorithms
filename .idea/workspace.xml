@@ -2,22 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8b641600-b4b4-4771-8b9d-609a309b238a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CF/production/itemcf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LFM/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LFM/util/read.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CF/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CF/production/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CF/production/reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CF/production/usercf.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/Person-recommendation.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Person-recommendation.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vscode/settings.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itemcf&amp;usercf/data/movies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CF/data/movies.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itemcf&amp;usercf/data/ratings.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CF/data/ratings.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itemcf&amp;usercf/doc/itemcf.md" beforeDir="false" afterPath="$PROJECT_DIR$/CF/doc/itemcf.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itemcf&amp;usercf/doc/usercf.md" beforeDir="false" afterPath="$PROJECT_DIR$/CF/doc/usercf.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itemcf&amp;usercf/doc/usercf.png" beforeDir="false" afterPath="$PROJECT_DIR$/CF/doc/usercf.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itemcf&amp;usercf/util/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/CF/util/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/itemcf&amp;usercf/util/reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/CF/util/reader.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CF/production/itemcf.py" beforeDir="false" afterPath="$PROJECT_DIR$/CF/production/itemcf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CF/util/reader.py" beforeDir="false" afterPath="$PROJECT_DIR$/CF/util/reader.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,11 +20,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CF/production/itemcf.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="581">
-              <caret line="58" column="63" selection-start-line="58" selection-start-column="63" selection-end-line="58" selection-end-column="63" />
+            <state relative-caret-position="146">
+              <caret line="95" column="7" lean-forward="true" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
               <folding>
                 <element signature="e#91#122#0" expanded="true" />
               </folding>
@@ -40,10 +33,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CF/util/reader.py">
+        <entry file="file://$PROJECT_DIR$/CF/production/reader.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="635">
-              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            <state relative-caret-position="555">
+              <caret line="75" column="22" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CF/production/usercf.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="575">
+              <caret line="165" column="27" selection-start-line="165" selection-start-column="27" selection-end-line="165" selection-end-column="27" />
+              <folding>
+                <element signature="e#91#122#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -56,6 +61,11 @@
         <option value="Python Script" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -72,14 +82,18 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/CF/doc/usercf.md" />
         <option value="$PROJECT_DIR$/CF/util/reader.py" />
+        <option value="$PROJECT_DIR$/one/two1/two.py" />
+        <option value="$PROJECT_DIR$/CF/production/reader.py" />
         <option value="$PROJECT_DIR$/CF/production/itemcf.py" />
+        <option value="$PROJECT_DIR$/CF/production/usercf.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="1027" />
+    <option name="x" value="1680" />
+    <option name="y" value="-171" />
+    <option name="width" value="1707" />
+    <option name="height" value="1417" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -106,12 +120,6 @@
               <item name="Person-recommendation" type="b2602c69:ProjectViewProjectNode" />
               <item name="Person-recommendation" type="462c0819:PsiDirectoryNode" />
               <item name="CF" type="462c0819:PsiDirectoryNode" />
-              <item name="doc" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Person-recommendation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Person-recommendation" type="462c0819:PsiDirectoryNode" />
-              <item name="CF" type="462c0819:PsiDirectoryNode" />
               <item name="production" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -119,11 +127,6 @@
               <item name="Person-recommendation" type="462c0819:PsiDirectoryNode" />
               <item name="CF" type="462c0819:PsiDirectoryNode" />
               <item name="util" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Person-recommendation" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Person-recommendation" type="462c0819:PsiDirectoryNode" />
-              <item name="LFM" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -134,12 +137,15 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/CF/production" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/CF/production" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/LFM" />
     </key>
@@ -156,7 +162,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.reader (1)">
+  <component name="RunManager" selected="Python.usercf">
+    <configuration name="itemcf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Person-recommendation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CF/production" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CF/production/itemcf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="read" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Person-recommendation" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -179,7 +207,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="reader (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="reader (1)" type="PythonConfigurationType" factoryName="Python">
       <module name="Person-recommendation" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,6 +221,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CF/util/reader.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="reader (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Person-recommendation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CF/production" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CF/production/reader.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -223,9 +273,33 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="usercf" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Person-recommendation" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CF/production" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CF/production/usercf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.reader (1)" />
+        <item itemvalue="Python.usercf" />
+        <item itemvalue="Python.itemcf" />
+        <item itemvalue="Python.reader (2)" />
         <item itemvalue="Python.read" />
         <item itemvalue="Python.reader" />
       </list>
@@ -248,24 +322,27 @@
       <workItem from="1562419392138" duration="29000" />
       <workItem from="1562419431875" duration="16000" />
       <workItem from="1562419458229" duration="105000" />
-      <workItem from="1562419576749" duration="1748000" />
+      <workItem from="1562419576749" duration="4147000" />
+      <workItem from="1562469592467" duration="3661000" />
+      <workItem from="1565246314927" duration="1512000" />
+      <workItem from="1565249268948" duration="986000" />
+      <workItem from="1565260590448" duration="6952000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13187000" />
+    <option name="totallyTimeSpent" value="28697000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="1027" extended-state="0" />
-    <editor active="true" />
+    <frame x="1680" y="-171" width="1707" height="1417" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15811966" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16276276" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.27312297" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.4025974" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934713" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -273,7 +350,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32911393" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.25136018" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.32990506" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -287,18 +364,15 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Person_recommendation$reader.coverage" NAME="reader Coverage Results" MODIFIED="1562388352170" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/itemcf&amp;usercf/util" />
-    <SUITE FILE_PATH="coverage/Person_recommendation$reader__1_.coverage" NAME="reader (1) Coverage Results" MODIFIED="1562417688482" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CF/util" />
+    <SUITE FILE_PATH="coverage/Person_recommendation$reader__2_.coverage" NAME="reader (2) Coverage Results" MODIFIED="1565263770677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CF/production" />
+    <SUITE FILE_PATH="coverage/Person_recommendation$usercf.coverage" NAME="usercf Coverage Results" MODIFIED="1565272611448" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CF/production" />
+    <SUITE FILE_PATH="coverage/Person_recommendation$reader__1_.coverage" NAME="reader (1) Coverage Results" MODIFIED="1562428699378" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CF/util" />
     <SUITE FILE_PATH="coverage/Person_recommendation$read.coverage" NAME="read Coverage Results" MODIFIED="1562416844880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LFM/util" />
+    <SUITE FILE_PATH="coverage/Person_recommendation$itemcf.coverage" NAME="itemcf Coverage Results" MODIFIED="1565263788725" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CF/production" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/itemcf&amp;usercf/util/123.py" />
-    <entry file="file:///anaconda3/lib/python3.6/encodings/ascii.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="73">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file:///anaconda3/lib/python3.6/encodings/ascii.py" />
     <entry file="file://$PROJECT_DIR$/LFM/readme.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -336,37 +410,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CF/data/ratings.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CF/util/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CF/util/reader.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="635">
-          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CF/doc/itemcf.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="405">
-            <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -377,10 +420,71 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CF/data/ratings.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CF/util/reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="75" column="26" selection-start-line="75" selection-start-column="26" selection-end-line="75" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/one/two1/two.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="14" lean-forward="true" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CF/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CF/production/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CF/production/reader.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="75" column="22" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CF/production/itemcf.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="581">
-          <caret line="58" column="63" selection-start-line="58" selection-start-column="63" selection-end-line="58" selection-end-column="63" />
+        <state relative-caret-position="146">
+          <caret line="95" column="7" lean-forward="true" selection-start-line="95" selection-start-column="7" selection-end-line="95" selection-end-column="7" />
+          <folding>
+            <element signature="e#91#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CF/doc/itemcf.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="368">
+            <caret line="16" column="11" selection-start-line="16" selection-start-column="11" selection-end-line="16" selection-end-column="11" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CF/util/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CF/production/usercf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="165" column="27" selection-start-line="165" selection-start-column="27" selection-end-line="165" selection-end-column="27" />
           <folding>
             <element signature="e#91#122#0" expanded="true" />
           </folding>
